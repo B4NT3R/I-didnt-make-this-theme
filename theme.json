@@ -84,8 +84,8 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#ffffff",
-      "#ffffff"
+      "transparent",
+      "transparent"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#2c2c2c",
