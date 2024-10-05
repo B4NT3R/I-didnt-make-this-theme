@@ -337,7 +337,7 @@
      },
     
     "background": {
-        "alpha": 5,
+        "alpha": 0.5,
         "url": "https://safebooru.org//images/4619/e9a0c3fdb3cce8689c830badd470c08bc1dec679.jpg"
     },
     "plus":{
